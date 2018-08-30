@@ -4,5 +4,10 @@
 
 h1{
 	color: gray;
+	text-align:center;
 }
 
+label{
+	background-color:red;
+	color:white;
+}
